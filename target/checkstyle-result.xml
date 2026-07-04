@@ -232,6 +232,8 @@
 </file>
 <file name="/home/ubuntu/mydocker-project/k8s/petclinic.yml">
 </file>
+<file name="/home/ubuntu/mydocker-project/Dockerfile">
+</file>
 <file name="/home/ubuntu/mydocker-project/pom.xml">
 </file>
 </checkstyle>
